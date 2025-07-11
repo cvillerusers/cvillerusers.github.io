@@ -1,0 +1,12 @@
+nav.navbar {
+  height: 56px;           /* keep the bar from resizing */
+  overflow: visible;      /* allow the brand text to overflow if needed */
+}
+
+.navbar-brand {
+    font-family: "Arial Black", Gadget, sans-serif !important;
+    font-size: 2rem !important;
+    line-height: 56px !important;
+    padding-top: 0 !important;       
+    padding-bottom: 0 !important;    
+}

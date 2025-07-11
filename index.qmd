@@ -1,0 +1,22 @@
+---
+title: "Charlottesville R Users"
+---
+
+# Join us!
+
+Join the [CRU Discord](https://discord.gg/MZ49Zar4gA) for event announcements, discussion during in-person events, meeting your fellow Charlottesville R Users, local job searching and posting, suggesting topics, and volunteering to present. 
+
+Discord not your thing? [Sign up here](https://groups.google.com/g/cvillerusers) for email notifications about new events.
+
+# Upcoming Events
+
+<iframe
+    src="https://lu.ma/embed/calendar/cal-bTmfo5ZEWrhz8e9/events"
+    width="600"
+    height="450"
+    frameborder="0"
+    style="border: 1px solid #bfcbda88; border-radius: 4px;"
+    allowfullscreen=""
+    aria-hidden="false"
+    tabindex="0"
+></iframe>

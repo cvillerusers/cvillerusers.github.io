@@ -1,0 +1,41 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "CRU"
+  favicon: "cru-logo.ico"
+  sidebar: false
+  navbar:
+    search: false
+    # left:
+      # - href: index.qmd
+        # text: Home
+      # - about.qmd
+    right:
+      - icon: discord
+        href: https://discord.gg/MZ49Zar4gA
+        text: Discord
+      - icon: github
+        href: https://github.com/cvillerusers
+        text: GitHub
+      - icon: envelope
+        href: https://groups.google.com/g/cvillerusers
+        text: Mailing List
+      - icon: calendar3
+        href: https://lu.ma/cru
+        text: Event Calendar
+  page-footer: 
+    center: "Copyright 2025, CRU" 
+
+format:
+  html:
+    theme:
+      - default
+    css: styles.css
+    toc: true
+
+
+
