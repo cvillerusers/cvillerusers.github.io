@@ -10,6 +10,8 @@ Discord not your thing? [Sign up here](https://groups.google.com/g/cvillerusers)
 
 # Upcoming Events
 
+See the event calendar at <https://lu.ma/cru>.
+
 <iframe
     src="https://lu.ma/embed/calendar/cal-bTmfo5ZEWrhz8e9/events"
     width="600"
