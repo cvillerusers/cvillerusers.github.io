@@ -4,9 +4,9 @@ title: "Charlottesville R Users"
 
 # Join us!
 
-Join the [CRU Discord](https://discord.gg/MZ49Zar4gA) for event announcements, discussion during in-person events, meeting your fellow Charlottesville R Users, local job searching and posting, suggesting topics, and volunteering to present. 
+Join the [CRU mailing list](https://groups.google.com/g/cvillerusers) for new event notifications. 
 
-Discord not your thing? [Sign up here](https://groups.google.com/g/cvillerusers) for email notifications about new events.
+Join the [CRU Discord](https://discord.gg/MZ49Zar4gA) discussion during in-person events, meeting your fellow Charlottesville R Users, local job searching and posting, suggesting topics, and volunteering to present. 
 
 # Upcoming Events
 
