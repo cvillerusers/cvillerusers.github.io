@@ -26,7 +26,10 @@ website:
         text: Mailing List
       - icon: calendar3
         href: https://lu.ma/cru
-        text: Event Calendar
+        text: Events
+      - icon: people-fill
+        href: https://r-consortium.org/codeofconduct
+        text: Code of Conduct
   page-footer: 
     center: "Copyright 2025, CRU" 
 
