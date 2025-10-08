@@ -2,13 +2,17 @@
 title: "Charlottesville R Users"
 ---
 
-# Join us!
+# Join us
 
 Join the [CRU mailing list](https://groups.google.com/g/cvillerusers) for new event notifications. 
 
 Join the [CRU Discord](https://discord.gg/MZ49Zar4gA) discussion during in-person events, meeting your fellow Charlottesville R Users, local job searching and posting, suggesting topics, and volunteering to present. 
 
-# Upcoming Events
+# Sign up to present
+
+Have an idea for a talk, lightning talk, workshop, panel discussion, or other event? [Sign up here](https://forms.gle/Li89DmsiGoth8fDDA) to volunteer to present at an upcoming event!
+
+# Upcoming events
 
 See the event calendar at <https://lu.ma/cru>.
 
